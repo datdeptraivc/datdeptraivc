@@ -15,9 +15,9 @@
 [![Join the chat at https://gitter.im/datbietvietcode/Github-Profile-Tutorial](https://badges.gitter.im/datbietvietcode/Github-Profile-Tutorial.svg)](https://gitter.im/datbietvietcode/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center"> 
-<a href="https://www.facebook.com/Info.NguyenTheDat.Username/" alt="Facebook"> <img src="https://img.icons8.com/nolan/64/facebook-new.png"/> </a>
-<a href="https://github.com/datbietvietcode" alt="Github"> <img src="https://img.icons8.com/nolan/64/github.png"/> </a>
-<a href="https://www.instagram.com/_ngthedat/" alt="Instagram"> <img src="https://img.icons8.com/nolan/64/instagram-new.png"/> </a>
+<a href="https://www.facebook.com/Info.NguyenTheDat.IT/" alt="Facebook"> <img src="https://img.icons8.com/nolan/64/facebook-new.png"/> </a>
+<a href="https://github.com/datdeptraivc" alt="Github"> <img src="https://img.icons8.com/nolan/64/github.png"/> </a>
+<a href="https://www.instagram.com/_nguyenthedat03/" alt="Instagram"> <img src="https://img.icons8.com/nolan/64/instagram-new.png"/> </a>
 
 </p>
 
